@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad03a395.chunk.css",
+    "main.js": "/static/js/main.09862e81.chunk.js",
+    "main.js.map": "/static/js/main.09862e81.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2e20bb00.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2e20bb00.js.map",
+    "static/css/2.99bdb016.chunk.css": "/static/css/2.99bdb016.chunk.css",
+    "static/js/2.540e0aff.chunk.js": "/static/js/2.540e0aff.chunk.js",
+    "static/js/2.540e0aff.chunk.js.map": "/static/js/2.540e0aff.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c152f5a1d925c3fcf4b858512f8df565.js": "/precache-manifest.c152f5a1d925c3fcf4b858512f8df565.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.99bdb016.chunk.css.map": "/static/css/2.99bdb016.chunk.css.map",
+    "static/css/main.ad03a395.chunk.css.map": "/static/css/main.ad03a395.chunk.css.map",
+    "static/js/2.540e0aff.chunk.js.LICENSE.txt": "/static/js/2.540e0aff.chunk.js.LICENSE.txt",
+    "static/media/best-app-development-tool.md": "/static/media/best-app-development-tool.70f40b0f.md",
+    "static/media/common-misconceptions-about-payment.md": "/static/media/common-misconceptions-about-payment.bdea94e6.md",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
+    "static/media/things-to-know-about-startup-business.md": "/static/media/things-to-know-about-startup-business.78d24824.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e20bb00.js",
+    "static/css/2.99bdb016.chunk.css",
+    "static/js/2.540e0aff.chunk.js",
+    "static/css/main.ad03a395.chunk.css",
+    "static/js/main.09862e81.chunk.js"
+  ]
+}
